@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">GridView组件的使用</string>
+    <string name="hello_world">
+        Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">图片展示</string>
+    <string-array name="tvInformation">
+        <item >第一幅</item>
+        <item >第一幅</item>
+        <item >第一幅</item>
+        <item >第一幅</item>
+        <item >第一幅</item>
+        <item >第一幅</item>
+    </string-array>
+
+</resources>
